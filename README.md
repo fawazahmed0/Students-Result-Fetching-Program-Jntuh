@@ -11,13 +11,13 @@ This program goes to result website such as
 
 http://epayments.jntuh.ac.in/results/
 
-![image]()
+![image](https://github.com/fawazahmed0/Students-result-fetching-program/blob/master/images/-2018-jun-15-001.jpg)
 
 or
 
 http://202.63.105.184/RESULT/homepage.jsp?id=1&name=BTEH_1277
 
-![image]()
+![image](https://github.com/fawazahmed0/Students-result-fetching-program/blob/master/images/-2018-jun-15-002.jpg)
 
 Using HTMLUnit driver
 
