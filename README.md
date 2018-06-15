@@ -33,3 +33,6 @@ It then combine everyone's result in a pdf file.
 
 Please refer pdf:
 
+https://drive.google.com/file/d/1BbyN9FBi2OJzvv_7zaGIT3xy52bADKrP/view?usp=sharing
+
+
