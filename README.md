@@ -39,7 +39,7 @@ https://drive.google.com/file/d/1BbyN9FBi2OJzvv_7zaGIT3xy52bADKrP/view?usp=shari
 
 ![image](https://github.com/fawazahmed0/Students-result-fetching-program/blob/master/images/3-2-Regular-R13-rezz_Page_1.jpg)
 
-![image](https://github.com/fawazahmed0/Students-result-fetching-program/blob/master/images/3-2-Regular-R13-rezz_Page_2.jpg)
+![image](https://github.com/fawazahmed0/Students-result-fetching-program/blob/master/images/3-2-Regular-R13-rezz_Page_2_1.jpg)
 
 - Student result
 
